@@ -43,7 +43,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
-  new = cobble.new
+  new = condition.new
   
   
 end
