@@ -43,7 +43,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
- new = Shoe.new("new")
+ new = Shoe.condition("new")
   
   
 end
